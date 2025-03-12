@@ -16,7 +16,7 @@ The main headline is located in the first `<section>` tag. To update:
 ```html
 <!-- Original -->
 <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-8 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-    End Customer Service Nightmares in 60 Seconds
+    End Customer Service Nightmares
 </h1>
 
 <!-- Example modification -->
